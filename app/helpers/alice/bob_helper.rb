@@ -1,0 +1,2 @@
+module Alice::BobHelper
+end

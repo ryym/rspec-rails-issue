@@ -1,0 +1,2 @@
+module Carol::BobHelper
+end
