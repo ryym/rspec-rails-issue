@@ -9,6 +9,5 @@ Rails.application.routes.draw do
     get 'bob/bye'
   end
 
-  get 'bob/hello'
   get 'bob/bye'
 end
